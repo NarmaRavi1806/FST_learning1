@@ -1,0 +1,27 @@
+2023-07-17 23:10:17,475 [main] INFO nopComm Application - ---------------info-------------
+2023-07-17 23:10:17,488 [main] WARN nopComm Application - ---------------warn-------------
+2023-07-17 23:10:17,488 [main] ERROR nopComm Application - ---------------error-------------
+2023-07-17 23:10:17,488 [main] INFO nopComm Application - login user id
+2023-07-17 23:10:25,720 [main] INFO nopComm Application - send password admin
+2023-07-17 23:10:25,871 [main] INFO nopComm Application - click remember me
+2023-07-17 23:10:32,733 [main] INFO nopComm Application - get title of the page Dashboard / nopCommerce administration
+2023-07-17 23:10:36,763 [main] INFO nopComm Application - click logout
+2023-07-17 23:10:41,830 [main] INFO nopComm Application - get title after logout Your store. Login
+2023-07-19 22:50:49,492 [main] INFO nopComm Application - ---------------info-------------
+2023-07-19 22:50:49,506 [main] WARN nopComm Application - ---------------warn-------------
+2023-07-19 22:50:49,506 [main] ERROR nopComm Application - ---------------error-------------
+2023-07-19 22:50:49,506 [main] INFO nopComm Application - login user id
+2023-07-19 22:50:56,914 [main] INFO nopComm Application - send password admin
+2023-07-19 22:50:57,036 [main] INFO nopComm Application - click remember me
+2023-07-19 22:51:03,186 [main] INFO nopComm Application - get title of the page Dashboard / nopCommerce administration
+2023-07-19 22:51:06,797 [main] INFO nopComm Application - click logout
+2023-07-19 22:51:11,342 [main] INFO nopComm Application - get title after logout Your store. Login
+2023-07-19 22:51:47,942 [main] INFO nopComm Application - ---------------info-------------
+2023-07-19 22:51:47,946 [main] WARN nopComm Application - ---------------warn-------------
+2023-07-19 22:51:47,947 [main] ERROR nopComm Application - ---------------error-------------
+2023-07-19 22:51:47,947 [main] INFO nopComm Application - login user id
+2023-07-19 22:51:55,426 [main] INFO nopComm Application - send password admin
+2023-07-19 22:51:55,536 [main] INFO nopComm Application - click remember me
+2023-07-19 22:52:01,635 [main] INFO nopComm Application - get title of the page Dashboard / nopCommerce administration
+2023-07-19 22:52:05,315 [main] INFO nopComm Application - click logout
+2023-07-19 22:52:09,940 [main] INFO nopComm Application - get title after logout Your store. Login
